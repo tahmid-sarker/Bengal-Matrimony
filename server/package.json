@@ -1,0 +1,33 @@
+{
+  "name": "bengal-matrimony",
+  "version": "1.0.0",
+  "description": "Bengal Matrimony Server",
+  "keywords": [
+    "Matrimony"
+  ],
+  "homepage": "https://bengal-matrimony.web.app",
+  "bugs": {
+    "url": "https://github.com/tahmid-sarker/Bengal-Matrimony/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahmid-sarker/Bengal-Matrimony.git"
+  },
+  "license": "ISC",
+  "author": "Md. Tahmid Sarker Mahi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "firebase-admin": "^13.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.17.0",
+    "stripe": "^18.5.0"
+  }
+}
