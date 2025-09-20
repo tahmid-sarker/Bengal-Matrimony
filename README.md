@@ -28,7 +28,7 @@ Bengal Matrimony is a modern web application designed to help Bengali singles an
 
 | Category       | Tools                               |
 | -------------- | ------------------------------------|
-| Frontend       | React, TanStack                     |
+| Frontend       | React, TanStack Query               |
 | Styling        | Tailwind CSS, daisyUI               |
 | HTTP Client    | Axios                               |
 | Payments       | Stripe                              |
